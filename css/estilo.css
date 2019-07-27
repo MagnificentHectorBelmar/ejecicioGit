@@ -1,8 +1,29 @@
 body 
 {
 text-align: center;
-color: blue;
+color: #333;
 font-family: fantasy;
 letter-spacing: 1px;
+font-size: 16px;
+margin: 0;
+padding: 0;
+}
 
+#contenedor
+{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid #ddd;
+margin: 0 auto;
+
+
+
+}
+
+#contenedor h1
+
+{
+
+    font-size: 20px;
 }
