@@ -1,0 +1,5 @@
+Este archivo es una prueba de como usar git correctamente 
+me llamo Hector asombroso belmar 
+tengo 23 años pero eso no importa mucho
+vivo en chile
+y soy analista programador
