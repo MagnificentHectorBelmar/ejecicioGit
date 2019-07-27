@@ -1,5 +1,5 @@
 Este archivo es una prueba de como usar git correctamente 
-me llamo Hector asombroso belmar 
-tengo 23 años pero eso no importa mucho
-vivo en chile
-y soy analista programador
+me llamo Hector Belmar Molina
+tengo 23 años, naci el 07 de mayo del 1996
+vivo en Santiago de chile, comuma de puente alto
+y soy analista programador, egresado de inacap el año 2017
