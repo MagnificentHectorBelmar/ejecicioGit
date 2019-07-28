@@ -4,3 +4,4 @@ tengo 23 años, naci el 07 de mayo del 1996
 vivo en Santiago de chile, comuma de puente alto
 y soy analista programador, egresado de inacap el año 2017
 me gustan los videojuegos y el cine.
+y en este momento estoy aprendiendo github
