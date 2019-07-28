@@ -2,7 +2,7 @@ body
 {
 text-align: center;
 color: #333;
-font-family: fantasy;
+font-family:Georgia, 'Times New Roman', Times, serif;
 letter-spacing: 1px;
 font-size: 16px;
 margin: 0;
@@ -24,6 +24,6 @@ margin: 0 auto;
 #contenedor h1
 
 {
-
-    font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
 }
