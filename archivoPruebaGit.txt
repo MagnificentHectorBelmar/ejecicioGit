@@ -6,3 +6,4 @@ y soy analista programador, egresado de inacap el año 2017
 me gustan los videojuegos y el cine.
 y en este momento estoy aprendiendo github
 y ahora un cambio local a remoto 
+haciendo un pull request
